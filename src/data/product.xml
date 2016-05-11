@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<product>
+    <dateCreation>2016-05-11T16:55:04.717-05:00</dateCreation>
+    <id>p1</id>
+    <name>Name1</name>
+    <price>1000.0</price>
+    <quantity>2</quantity>
+</product>
